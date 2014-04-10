@@ -1,0 +1,14 @@
+Package: PSMix
+Type: Package
+Title: Population structure inference using mixture model
+Version: 1.1.1
+Encoding: UTF-8
+Authors@R: c(person(given = "Baolin", family = "Wu", role = c("aut","cph"),email = "baolin@umn.edu"),
+    person(given = "Nianjun", family = "Liu", role = c("aut","cph"),email = "nliu@ms.soph.uab.edu"),
+    person(given = "Hongyu", family = "Zhao", role = c("aut","cph"),email = "hongyu.zhao@yale.edu"),
+    person(given = "Jose", family = "Gama", role = "cre",email = "jgama@abo.fi"))
+Description: population structure inference using likelihood-based approach
+URL: http://bioinformatics.med.yale.edu/PSMIX
+License: GPL (>= 2)
+Depends: R (>= 2.0.0)
+
