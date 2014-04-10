@@ -1,0 +1,24 @@
+bibentry(
+bibtype ="Manual",
+ title = "PSMIX: an R package for population structure inference via maximum likelihood method",
+ author = "Hongyu Zhao [aut, cph], Nianjun Zhao [aut, cph], Baolin Wu [aut, cph],  Liu Wu [aut, cph], Jos{\\'e} Gama [cre]",
+ year = "2013",
+ note = "R package version 1.0.0",
+ url = "http://CRAN.R-project.org/package=Rgnuplot",
+ key = "Rgnuplot-package"
+ )
+
+bibentry(
+bibtype ="Article",
+AUTHOR = "Wu, Baolin and Liu, Nianjun and Zhao, Hongyu",
+TITLE = "PSMIX: an R package for population structure inference via maximum likelihood method",
+JOURNAL = "BMC Bioinformatics",
+VOLUME = "7",
+YEAR = "2006",
+NUMBER = "1",
+PAGES = "317",
+URL = "http://www.biomedcentral.com/1471-2105/7/317",
+DOI = "10.1186/1471-2105-7-317",
+PubMedID = "16792813",
+ISSN = "1471-2105"
+)
